@@ -28,7 +28,7 @@ sections:
   product_info:
     use_local_header: true
     latest_stable_version: 0.1
-    changelog_href: https://docs.pivotal.io/developer-connect/0-n/release-notes.html
+    # changelog_href: https://docs.pivotal.io/developer-connect/0-n/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Developer Connect
     search_placeholder: Search Developer Connect
@@ -36,5 +36,5 @@ sections:
     local_product_version: 0.1
     local_header_links: []
     local_header_version_list:
-      - url_prefix: http://docs.pivotal.io/developer-connect/0-1
+      - url_prefix: http://docs.pivotal.io/developer-connect/0-n
         display_name: 0.1
