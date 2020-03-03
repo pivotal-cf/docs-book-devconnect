@@ -1,0 +1,40 @@
+---
+book_repo: pivotal-cf/docs-book-devconnect
+layout_repo: pivotal-cf/docs-layout-repo
+layout_repo_ref: master
+feedback_enabled: true
+
+broken_link_exclusions: iefix|arrowhead
+repo_link_enabled: true
+
+public_host: docs.pivotal.io
+
+elastic_search: true
+
+sections:
+
+# cross-product resources
+- repository:
+    name: pivotal-cf/docs-partials
+    ref: master
+  directory: devconnect/partials
+  no_docs: true
+
+- repository:
+    name: pivotal-cf/docs-devconnect
+    ref: 'master'
+  directory: developer-connect/0-n
+  subnav_template: addon_antivirus_0-n.erb
+  product_info:
+    use_local_header: true
+    latest_stable_version: 0.1
+    changelog_href: https://docs.pivotal.io/developer-connect/0-n/release-notes.html
+    local_header_img: /images/cloud_rings.png
+    local_header_title: Developer Connect
+    search_placeholder: Search Developer Connect
+    url_prefix: developer-connect/0-n
+    local_product_version: 0.1
+    local_header_links: []
+    local_header_version_list:
+      - url_prefix: http://docs.pivotal.io/developer-connect/0-1
+        display_name: 0.1
