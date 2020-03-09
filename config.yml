@@ -24,7 +24,7 @@ sections:
     name: pivotal-cf/docs-devconnect
     ref: 'master'
   directory: developer-connect/0-alpha
-  subnav_template: developer_connect_0-n.erb
+  subnav_template: developer_connect_0-alpha.erb
   product_info:
     use_local_header: true
     latest_stable_version: 0.1
