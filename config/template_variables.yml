@@ -14,8 +14,8 @@ template_variables:
 
   app_runtime_full: VMware Tanzu Application Service for VMs
   app_runtime_abbr: TAS for VMs
-  k8s_runtime_full: VMware PKS
-  k8s_runtime_abbr: PKS
+  k8s_runtime_full: Tanzu Kubernetes Grid Integrated Edition
+  k8s_runtime_abbr: TKGI
   windows_runtime_full: VMware Tanzu Application Service for VMs &#91;Windows&#93;
   windows_runtime_abbr: TAS &#91;Windows&#93;
 
