@@ -14,6 +14,7 @@ template_variables:
 
   app_runtime_full: VMware Tanzu Application Service for VMs
   app_runtime_abbr: TAS for VMs
+  bosh_runtime: BOSH Director
   k8s_runtime_full: Tanzu Kubernetes Grid Integrated Edition
   k8s_runtime_abbr: TKGI
   windows_runtime_full: VMware Tanzu Application Service for VMs &#91;Windows&#93;
