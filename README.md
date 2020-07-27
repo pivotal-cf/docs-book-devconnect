@@ -4,7 +4,7 @@
 
 * This book repo is for building the **edge** version of the Developer Connect content, that is, content for the next unreleased version of the product.
 
-* The content repo is in **pivotalcf/docs-devconnect**.
+* The content repo is in **[pivotalcf/docs-devconnect](https://github.com/pivotal-cf/docs-devconnect/)**.
 
 * The production version of this doc is built as part of the devconnect book: **pivotalcf/docs-book-devconnect**.
 
