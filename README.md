@@ -1,5 +1,7 @@
 #  Developer Connect
 
+**Note:** This documentation repo is currently not in use. This repo will only be used if development continues on the Developer Connect product.
+
 ## About this Repo
 
 * This book repo is for building the **edge** version of the Developer Connect content, that is, content for the next unreleased version of the product.
