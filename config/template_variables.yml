@@ -44,7 +44,7 @@ template_variables:
 
 # Legacy Book content variables (un-audited)
   api_version: 235
-  gtm_account_id: GTM-MW4LZHR
+  gtm_account_id: GTM-MM86KCJ
   admin: your Cloud Foundry administrator
   api_endpoint_book: For more information, see the [Identifying the API Endpoint for your Elastic Runtime Instance topic](http://docs.pivotal.io/pivotalcf/customizing/api-endpoint.html).
   api_endpoint: <a href="http://docs.pivotal.io/pivotalcf/opsguide/api-endpoint.html">the URL of the Cloud Controller in your Elastic Runtime instance</a>
